@@ -1,6 +1,7 @@
 import React from 'react'
 import { Menu, Container } from 'semantic-ui-react';
 import Head from 'next/head';
+import { Link } from '../routes';
 
 export default props => {
     return (
@@ -10,12 +11,16 @@ export default props => {
         </Head>
         <div>
         <Menu style={{marginTop:'10px'}}>
-            <Menu.Item>
-                Crowdcoin
-            </Menu.Item>
+            <Link route='/'>
+            <a className='item'>Crowdcoin</a>
+            </Link>
             <Menu.Menu position='right'>
-                <Menu.Item>Campaigns</Menu.Item>
-                <Menu.Item>+</Menu.Item>
+            <Link route='/'>
+            <a className='item'>Campaigns</a>
+            </Link>
+            <Link route='campaigns/new'>
+            <a className='item'>+</a>
+            </Link>
             </Menu.Menu>
         </Menu>
         {props.children}

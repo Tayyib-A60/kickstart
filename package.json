@@ -12,6 +12,7 @@
   "dependencies": {
     "fs-extra": "^7.0.1",
     "ganache-cli": "^6.4.2",
+    "mdbreact": "^4.13.0",
     "mocha": "^6.0.2",
     "next": "^4.1.4",
     "next-routes": "^1.4.2",

@@ -1,5 +1,9 @@
-const routes = require('next-routes');
+const routes = require('next-routes')();
 
-// routes.add('..', '..')
+routes
+.add('/campaigns/new', '/campaigns/new')
+.add('/campaigns/:address', '/campaigns/show')
+.add('/campaigns/:address/requests/new', '/campaigns/requests/new')
+.add('/campaigns/:address/requests', '/campaigns/requests/index');
 
-module.exports = routes();
+module.exports = routes;
