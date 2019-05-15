@@ -94,18 +94,26 @@
       "static\\igThahBdGSOp~wrqHbI1N\\pages\\index.js": 4,
       "static\\igThahBdGSOp~wrqHbI1N\\pages\\_app.js": 5,
       "static\\igThahBdGSOp~wrqHbI1N\\pages\\_error.js": 6,
-      "static\\igThahBdGSOp~wrqHbI1N\\pages\\_document.js": 7
+      "static\\igThahBdGSOp~wrqHbI1N\\pages\\_document.js": 7,
+      "static\\LafXtAP6YJVl5QQCDjB5t\\pages\\campaigns\\new.js": 8,
+      "static\\LafXtAP6YJVl5QQCDjB5t\\pages\\campaigns\\requests.js": 9,
+      "static\\LafXtAP6YJVl5QQCDjB5t\\pages\\campaigns\\requests\\new.js": 10,
+      "static\\LafXtAP6YJVl5QQCDjB5t\\pages\\campaigns\\show.js": 11,
+      "static\\LafXtAP6YJVl5QQCDjB5t\\pages\\index.js": 12,
+      "static\\LafXtAP6YJVl5QQCDjB5t\\pages\\_app.js": 13,
+      "static\\LafXtAP6YJVl5QQCDjB5t\\pages\\_error.js": 14,
+      "static\\LafXtAP6YJVl5QQCDjB5t\\pages\\_document.js": 15
     },
     "bySource": {},
     "usedIds": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      8,
+      9
     ]
   }
 }

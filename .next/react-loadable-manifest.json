@@ -355,7 +355,7 @@
       "publicPath": "static/chunks/commons.637681a450e7773f5554.js"
     }
   ],
-  "./isString": [
+  "lodash/isString": [
     {
       "id": 45,
       "name": "./node_modules/lodash/isString.js",
@@ -617,7 +617,7 @@
       "publicPath": "static/chunks/commons.637681a450e7773f5554.js"
     }
   ],
-  "lodash/keys": [
+  "./keys": [
     {
       "id": 83,
       "name": "./node_modules/lodash/keys.js",
@@ -785,7 +785,7 @@
       "publicPath": "static/chunks/commons.637681a450e7773f5554.js"
     }
   ],
-  "lodash/findIndex": [
+  "./findIndex": [
     {
       "id": 116,
       "name": "./node_modules/lodash/findIndex.js",
@@ -2487,7 +2487,7 @@
       "publicPath": "static/chunks/commons.637681a450e7773f5554.js"
     }
   ],
-  "./lib/response": [
+  "./response": [
     {
       "id": 346,
       "name": "./node_modules/stream-http/lib/response.js",
@@ -2699,7 +2699,7 @@
       "publicPath": "static/chunks/commons.637681a450e7773f5554.js"
     }
   ],
-  "./lib/sync": [
+  "./sync": [
     {
       "id": 371,
       "name": "./node_modules/pbkdf2/lib/sync-browser.js",
@@ -3025,7 +3025,7 @@
       "publicPath": "static/chunks/commons.637681a450e7773f5554.js"
     }
   ],
-  "./Icon": [
+  "../Icon/Icon": [
     {
       "id": 414,
       "name": "./node_modules/semantic-ui-react/dist/es/elements/Icon/Icon.js",
@@ -3057,7 +3057,7 @@
       "publicPath": "static/chunks/commons.637681a450e7773f5554.js"
     }
   ],
-  "lodash/isPlainObject": [
+  "../isPlainObject": [
     {
       "id": 418,
       "name": "./node_modules/lodash/isPlainObject.js",
